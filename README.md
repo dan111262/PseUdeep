@@ -12,9 +12,9 @@
 
 **Feature extraction：
   * KNFP_feature.py is the implementation of KNFP.
-  * PNSP_train_feature is the implementation of PNSP on the train datasets.
-  * PNSP_test_feature is the implementation of PNSP on the test datasets.
-  * One_hot_feature is the implementation of one-hot encoding.
+  * PNSP_train_feature.py is the implementation of PNSP on the train datasets.
+  * PNSP_test_feature.py is the implementation of PNSP on the test datasets.
+  * One_hot_feature.py is the implementation of one-hot encoding.
 
 **Classifier:
   *PseUdeep.py is the implemention of PseUdeep
